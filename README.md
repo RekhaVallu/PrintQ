@@ -1,6 +1,6 @@
 # PrintQ Setup Guide
 
-PrintFlow is a full-stack Smart Campus Printing application. This repository contains both the Node.js/Express backend and the React Native/Expo frontend.
+PrintQ is a full-stack Smart Campus Printing application. This repository contains both the Node.js/Express backend and the React Native/Expo frontend.
 
 Follow the instructions below to get the project running locally after cloning or forking.
 
